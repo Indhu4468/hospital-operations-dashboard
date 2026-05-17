@@ -38,13 +38,13 @@ This Power BI project analyzes hospital operations, patient flow, doctor perform
 ## Screenshots
 
 ### Executive Overview
-![Overview](Screenshots/overview-dashboard.png)
+<img width="2048" height="1152" alt="1771859113403" src="https://github.com/user-attachments/assets/f6c937c3-364c-435f-8d28-46ac2267c75d" />
 
 ### Revenue Analysis
-![Revenue](Screenshots/revenue-analysis.png)
+<img width="2048" height="1154" alt="1771859113642" src="https://github.com/user-attachments/assets/3fcaff8b-e148-4548-9efc-5bd58d32b570" />
 
 ### Doctor Performance
-![Doctor](Screenshots/doctor-performance.png)
+<img width="2048" height="1144" alt="1771859111128" src="https://github.com/user-attachments/assets/eb7aff84-801b-44c8-b481-fe4165819519" />
 
 ## Project Outcome
 This project helps hospital management monitor operational efficiency, patient demand, doctor workload, and revenue performance through centralized analytics dashboards.
